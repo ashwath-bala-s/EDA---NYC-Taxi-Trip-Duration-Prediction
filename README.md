@@ -9,7 +9,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding and gaining i
 The objective of this project is to perform Exploratory Data Analysis (EDA) on the NYC-trip duration dataset to uncover patterns, trends, and insights. By analyzing features such as trip duration, pickup and dropoff times and locations, passenger count, and vendor information, we aim to understand the factors influencing trip durations and identify any interesting patterns within the data. 
 
 **Dataset:**
-The dataset used for this project has records and includes the following variables:
+The dataset used for this project 7,29,322has records and includes the following variables:
 
 •	id: A unique identifier for each trip
 
